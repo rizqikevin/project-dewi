@@ -1,8 +1,8 @@
 <?php
 $servername = "db";
-$username = "root";
-$password = "rootpassword";
-$dbname = "dbprostock_sql";
+$username = "prostock_user";
+$password = "prostock_pass";
+$dbname = "dbprostock";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
