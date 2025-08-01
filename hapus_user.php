@@ -170,7 +170,7 @@ $conn->close();
             <footer class="py-4 bg-light mt-auto">
                 <div class="container-fluid">
                     <div class="d-flex align-items-center justify-content-between small">
-                        <div class="text-muted">Copyright &copy; Gilang FR 2024</div>
+                        <div class="text-muted">Copyright &copy; Dewi Ns 2024</div>
                         <div>
                             <a href="#">Privacy Policy</a>
                             &middot;
